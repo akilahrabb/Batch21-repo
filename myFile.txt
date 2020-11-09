@@ -1,3 +1,6 @@
 my first file
 This was the first file I created online
 I want to push changes back to remote
+Now I will experiment
+with pushing changes
+directly from Atom

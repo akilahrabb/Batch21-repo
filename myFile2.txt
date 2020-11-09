@@ -1,1 +1,9 @@
 this is the second file
+This will go back
+to the GitHub.com
+more stuff has been added
+we cloned the remote to local
+now we are making changes
+next we will commit changes
+and push them back
+to the remote repository
